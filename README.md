@@ -1,5 +1,7 @@
 <div align="center">
 
+<img src="./assets/banner.svg" width="100%" alt="Lucas — Software, automação e soluções reais" />
+
 # Olá, eu sou o Lucas 👋
 ### Desenvolvedor de Software · Automação de Processos · Aplicações Multiplataforma
 **Birigui – SP, Brasil** 📍
@@ -24,6 +26,17 @@ Meu foco está em aplicações práticas, com atenção à experiência de uso, 
 
 ## 🚀 Projeto em destaque — Festum Estação
 
+<div align="center">
+
+![Windows](https://img.shields.io/badge/Windows-0D1117?style=flat-square)
+![macOS](https://img.shields.io/badge/macOS-0D1117?style=flat-square&logo=apple&logoColor=white)
+![Android](https://img.shields.io/badge/Android-0D1117?style=flat-square&logo=android&logoColor=3DDC84)
+![Web](https://img.shields.io/badge/Web_%2F_iPhone-0D1117?style=flat-square&logo=safari&logoColor=white)
+
+**Uma operação conectada. Várias ferramentas. Um só lugar.**
+
+</div>
+
 Uma estação de ferramentas para operações reais, reunindo:
 
 - **Automação de produção:** importação de pedidos, identificação de SKUs e organização de arquivos.
@@ -38,6 +51,16 @@ Uma estação de ferramentas para operações reais, reunindo:
 > O código do aplicativo é privado. O repositório público de releases disponibiliza suas versões distribuídas.
 
 ## 🧰 Tecnologias nos meus projetos
+
+<div align="center">
+
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-0D1117?style=for-the-badge&logo=tailwindcss&logoColor=38BDF8)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0D1117?style=for-the-badge&logo=postgresql&logoColor=4169E1)
+![Vitest](https://img.shields.io/badge/Vitest-0D1117?style=for-the-badge&logo=vitest&logoColor=6E9F18)
+![Git](https://img.shields.io/badge/Git-0D1117?style=for-the-badge&logo=git&logoColor=F05032)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-0D1117?style=for-the-badge&logo=githubactions&logoColor=2088FF)
+
+</div>
 
 | Área | Tecnologias |
 | :--- | :--- |
