@@ -4,7 +4,6 @@
 
 # Olá, eu sou o Lucas 👋
 ### Desenvolvedor de Software · Automação de Processos · Aplicações Multiplataforma
-**Birigui – SP, Brasil** 📍
 
 Transformando necessidades reais em ferramentas que facilitam o trabalho.
 
