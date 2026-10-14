@@ -3,9 +3,11 @@
 <img src="./assets/banner.svg" width="100%" alt="Lucas — Software, automação e soluções reais" />
 
 # Olá, eu sou o Lucas 👋
-### Desenvolvedor de Software · Automação de Processos · Aplicações Multiplataforma
+### Desenvolvedor de Software
 
-Transformando necessidades reais em ferramentas que facilitam o trabalho.
+**⚙️ Automação e produtividade · 🎮 Ferramentas para games**
+
+Duas frentes de desenvolvimento. Projetos separados. O mesmo foco em ferramentas úteis.
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
@@ -19,11 +21,19 @@ Transformando necessidades reais em ferramentas que facilitam o trabalho.
 
 ## Sobre mim
 
-Desenvolvo soluções para problemas do dia a dia: automatizar tarefas repetitivas, organizar operações e conectar pessoas e informações.
+Atuo em duas frentes: **automação de processos e produtividade**, para simplificar operações e reduzir trabalho manual, e **ferramentas para games**, uma nova área voltada a utilitários para jogadores.
+
+[⚙️ Ver automações](#automacoes) · [🎮 Ver ferramentas para games](#games)
 
 Meu foco está em aplicações práticas, com atenção à experiência de uso, sincronização entre computadores e preservação das funcionalidades existentes. Uso IA como apoio para desenvolver, testar e evoluir meus projetos, aprendendo com cada desafio.
 
-## 🚀 Projeto em destaque — Festum Estação
+<a id="automacoes"></a>
+
+## ⚙️ Automação e produtividade
+
+Soluções para automatizar tarefas, organizar informações e conectar operações.
+
+### Projeto em destaque — Festum Estação
 
 <div align="center">
 
@@ -49,6 +59,31 @@ Uma estação de ferramentas para operações reais, reunindo:
 
 > O código do aplicativo é privado. O repositório público de releases disponibiliza suas versões distribuídas.
 
+### Repositórios de automação
+
+| Repositório | Finalidade |
+| :--- | :--- |
+| [estacao-releases](https://github.com/Lczinzx/estacao-releases) | Instaladores e atualizações do Festum Estação. |
+| [lx-syncmarkteplace](https://github.com/Lczinzx/lx-syncmarkteplace) | Projeto de ferramentas e integrações para marketplace. |
+
+O código-fonte do Festum permanece privado; somente a distribuição é pública.
+
+---
+
+<a id="games"></a>
+
+## 🎮 Ferramentas para games
+
+Uma frente separada das automações empresariais: utilitários e ferramentas voltados a jogos e à experiência dos jogadores.
+
+### Repositórios de games
+
+**Novos projetos em preparação.** Os repositórios públicos desta área serão apresentados aqui conforme forem publicados.
+
+Ainda não há repositórios públicos de games neste perfil. Esta seção fica reservada para eles, sem misturar os projetos de automação.
+
+---
+
 ## 🧰 Tecnologias nos meus projetos
 
 <div align="center">
@@ -71,7 +106,7 @@ Uma estação de ferramentas para operações reais, reunindo:
 
 ## 🎯 O que busco construir
 
-**Menos tarefas manuais. Mais organização. Ferramentas úteis.**
+**Automação para o trabalho. Ferramentas para os games. Software para resolver problemas.**
 
 Gosto de transformar uma necessidade concreta em um fluxo mais simples — do primeiro protótipo até o uso diário — e evoluir o sistema com testes e mudanças cuidadosas.
 
