@@ -82,7 +82,7 @@ Uma frente separada das automações empresariais: utilitários e ferramentas vo
 | :--- | :--- | :--- |
 | [lxmenu](https://github.com/Lczinzx/lxmenu) | Menu experimental para GTA V Online Enhanced, com interface em português, tema vermelho/preto, editor de trajes e atributos do personagem. | [Baixar a DLL](https://github.com/Lczinzx/lxmenu/releases) |
 
-O lxmenu deriva do YimMenuV2 e preserva a licença GPL-2.0 e os créditos da base. A conexão em sessões convencionais e os recursos experimentais têm limitações documentadas no repositório; os testes offline não equivalem a validação dentro do GTA.
+A conexão em sessões convencionais e os recursos experimentais do lxmenu têm limitações documentadas no repositório; os testes offline não equivalem a validação dentro do GTA.
 
 ---
 
