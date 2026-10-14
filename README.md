@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/banner.svg" width="100%" alt="Lucas — Software, automação e soluções reais" />
+<img src="https://raw.githubusercontent.com/Lczinzx/Lczinzx/3f44dafea80ee71161f5eb008cad990ebfd647c8/assets/banner.svg" width="100%" alt="Lucas — Automações e ferramentas para games" />
 
 # Olá, eu sou o Lucas 👋
 ### Desenvolvedor de Software
