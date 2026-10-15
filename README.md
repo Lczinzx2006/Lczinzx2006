@@ -106,6 +106,31 @@ O projeto integra fontes externas: disponibilidade de títulos, reprodução e i
 
 ---
 
+<a id="suporte"></a>
+
+## 💬 Suporte dos projetos
+
+Encontrou um problema ou tem uma sugestão? Abra uma issue no projeto correspondente.
+
+| Área | Projeto | Suporte |
+| :--- | :--- | :--- |
+| Automação | Festum Estação | [Abrir chamado](https://github.com/Lczinzx/estacao-releases/issues/new) |
+| Automação | LX Sync Marketplace | [Abrir chamado](https://github.com/Lczinzx/lx-syncmarkteplace/issues/new) |
+| Games | lxmenu | [Abrir chamado](https://github.com/Lczinzx/lxmenu/issues/new) |
+| Web | LX Play | [Abrir chamado](https://github.com/Lczinzx/lx-play/issues/new) |
+
+Informe versão, dispositivo e passos para reproduzir. Remova senhas, tokens e dados pessoais dos anexos públicos.
+
+<a id="apoio"></a>
+
+## ☕ Apoie o desenvolvimento
+
+Você pode apoiar os projetos com testes, sugestões e relatos de problemas. O apoio financeiro será opcional.
+
+**Doações ainda não estão ativadas.** O link oficial de recebimento será publicado aqui quando estiver configurado. O suporte não depende de doação.
+
+---
+
 ## 🧰 Tecnologias nos meus projetos
 
 <div align="center">
