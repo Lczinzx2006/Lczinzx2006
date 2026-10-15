@@ -64,7 +64,6 @@ Uma estação de ferramentas para operações reais, reunindo:
 | Repositório | Finalidade |
 | :--- | :--- |
 | [estacao-releases](https://github.com/Lczinzx/estacao-releases) | Instaladores e atualizações do Festum Estação. |
-| [lx-syncmarkteplace](https://github.com/Lczinzx/lx-syncmarkteplace) | Projeto de ferramentas e integrações para marketplace. |
 
 O código-fonte do Festum permanece privado; somente a distribuição é pública.
 
@@ -115,7 +114,6 @@ Encontrou um problema ou tem uma sugestão? Abra uma issue no projeto correspond
 | Área | Projeto | Suporte |
 | :--- | :--- | :--- |
 | Automação | Festum Estação | [Abrir chamado](https://github.com/Lczinzx/estacao-releases/issues/new) |
-| Automação | LX Sync Marketplace | [Abrir chamado](https://github.com/Lczinzx/lx-syncmarkteplace/issues/new) |
 | Games | lxmenu | [Abrir chamado](https://github.com/Lczinzx/lxmenu/issues/new) |
 | Web | LX Play | [Abrir chamado](https://github.com/Lczinzx/lx-play/issues/new) |
 
