@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="380" viewBox="0 0 1200 380" role="img" aria-label="Lucas — Automações, ferramentas para games e aplicações web">
+<defs>
+<linearGradient id="bg" x2="1" y2="1"><stop stop-color="#0d1117"/><stop offset="1" stop-color="#211036"/></linearGradient>
+<linearGradient id="accent"><stop stop-color="#ec4899"/><stop offset=".5" stop-color="#8b5cf6"/><stop offset="1" stop-color="#38bdf8"/></linearGradient>
+<pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse"><path d="M40 0H0V40" fill="none" stroke="#fff" stroke-opacity=".04"/></pattern>
+</defs>
+<rect width="1200" height="380" rx="22" fill="url(#bg)"/><rect width="1200" height="380" rx="22" fill="url(#grid)"/>
+<circle cx="1100" cy="30" r="170" fill="#8b5cf6" opacity=".10"/>
+<rect x="55" y="45" width="65" height="5" rx="2.5" fill="url(#accent)"/>
+<g font-family="Arial,sans-serif">
+<text x="55" y="82" fill="#c4b5fd" font-size="17" letter-spacing="4">LCZINZX / SOFTWARE DEVELOPER</text>
+<text x="51" y="155" fill="#f8fafc" font-size="68" font-weight="700">Lucas.</text>
+<text x="55" y="193" fill="#94a3b8" font-size="19">Ideias que viram ferramentas. Do trabalho à web e aos games.</text>
+<rect x="55" y="232" width="350" height="96" rx="14" fill="#ec4899" fill-opacity=".07" stroke="#ec4899" stroke-opacity=".32"/>
+<rect x="425" y="232" width="350" height="96" rx="14" fill="#8b5cf6" fill-opacity=".09" stroke="#a78bfa" stroke-opacity=".32"/>
+<rect x="795" y="232" width="350" height="96" rx="14" fill="#38bdf8" fill-opacity=".07" stroke="#38bdf8" stroke-opacity=".32"/>
+<text x="79" y="270" fill="#f9a8d4" font-size="22" font-weight="700">AUTOMAÇÕES</text>
+<text x="79" y="302" fill="#cbd5e1" font-size="15">Processos · produtividade · integrações</text>
+<text x="449" y="270" fill="#ddd6fe" font-size="21" font-weight="700">FERRAMENTAS PARA GAMES</text>
+<text x="449" y="302" fill="#cbd5e1" font-size="15">Utilitários para jogos e jogadores</text>
+<text x="819" y="270" fill="#7dd3fc" font-size="22" font-weight="700">APLICAÇÕES WEB</text>
+<text x="819" y="302" fill="#cbd5e1" font-size="15">Sites · interfaces · experiências PWA</text>
+</g>
+<g transform="translate(967 66)" fill="none" stroke="url(#accent)" stroke-width="8" stroke-linecap="round" stroke-linejoin="round" opacity=".75"><path d="M36 15L6 48l30 33M112 15l30 33-30 33M91 0L58 99"/></g>
+<rect y="373" width="1200" height="7" fill="url(#accent)"/>
+</svg>

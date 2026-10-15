@@ -1,13 +1,13 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Lczinzx/Lczinzx/3f44dafea80ee71161f5eb008cad990ebfd647c8/assets/banner.svg" width="100%" alt="Lucas — Automações e ferramentas para games" />
+<img src="assets/banner-three-areas.svg" width="100%" alt="Lucas — Automações, ferramentas para games e aplicações web" />
 
 # Olá, eu sou o Lucas 👋
 ### Desenvolvedor de Software
 
-**⚙️ Automação e produtividade · 🎮 Ferramentas para games**
+**⚙️ Automação e produtividade · 🎮 Ferramentas para games · 🌐 Aplicações web**
 
-Duas frentes de desenvolvimento. Projetos separados. O mesmo foco em ferramentas úteis.
+Três frentes de desenvolvimento, cada uma com seus projetos e repositórios.
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
@@ -21,9 +21,9 @@ Duas frentes de desenvolvimento. Projetos separados. O mesmo foco em ferramentas
 
 ## Sobre mim
 
-Atuo em duas frentes: **automação de processos e produtividade**, para simplificar operações e reduzir trabalho manual, e **ferramentas para games**, uma nova área voltada a utilitários para jogadores.
+Desenvolvo **automações de processos e produtividade**, para simplificar operações; **ferramentas para games**, voltadas a jogadores; e **aplicações web**, com experiências acessíveis pelo navegador e projetos instaláveis como PWA.
 
-[⚙️ Ver automações](#automacoes) · [🎮 Ver ferramentas para games](#games)
+[⚙️ Ver automações](#automacoes) · [🎮 Ver ferramentas para games](#games) · [🌐 Ver aplicações web](#web)
 
 Meu foco está em aplicações práticas, com atenção à experiência de uso, sincronização entre computadores e preservação das funcionalidades existentes. Uso IA como apoio para desenvolver, testar e evoluir meus projetos, aprendendo com cada desafio.
 
@@ -86,6 +86,26 @@ A conexão em sessões convencionais e os recursos experimentais do lxmenu têm 
 
 ---
 
+<a id="web"></a>
+
+## 🌐 Aplicações web
+
+Sites e aplicações com interfaces responsivas, navegação prática e recursos para uso no navegador.
+
+### Projeto em desenvolvimento — LX Play
+
+Uma aplicação de cinema em português, com catálogo de filmes e séries, busca, favoritos e histórico locais. A interface é instalável como PWA em navegadores compatíveis.
+
+O projeto integra fontes externas: disponibilidade de títulos, reprodução e idiomas dependem dessas fontes. Os vídeos não ficam hospedados no repositório.
+
+### Repositórios de aplicações web
+
+| Projeto | Finalidade | Código |
+| :--- | :--- | :--- |
+| LX Play | Interface de cinema com catálogo, busca, favoritos e recursos de PWA. Em desenvolvimento. | [lx-play](https://github.com/Lczinzx/lx-play) |
+
+---
+
 ## 🧰 Tecnologias nos meus projetos
 
 <div align="center">
@@ -102,13 +122,14 @@ A conexão em sessões convencionais e os recursos experimentais do lxmenu têm 
 | :--- | :--- |
 | Interface | React · TypeScript · Tailwind CSS |
 | Aplicações desktop | Tauri · Rust |
+| Aplicações web | JavaScript · HTML · CSS · PWA |
 | Dados e integrações | Supabase · PostgreSQL |
 | Testes | Vitest · Testing Library |
 | Versionamento e distribuição | Git · GitHub · GitHub Actions |
 
 ## 🎯 O que busco construir
 
-**Automação para o trabalho. Ferramentas para os games. Software para resolver problemas.**
+**Automação para o trabalho. Ferramentas para os games. Experiências para a web.**
 
 Gosto de transformar uma necessidade concreta em um fluxo mais simples — do primeiro protótipo até o uso diário — e evoluir o sistema com testes e mudanças cuidadosas.
 
