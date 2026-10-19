@@ -16,8 +16,6 @@
 
 **Desenvolvedor de Software · Automação de Processos · Aplicações Multiplataforma**
 
-**Birigui – SP, Brasil** 📍
-
 <a href="#automacoes"><img src="assets/nav-automation.svg" width="120" alt="Ver automações" /></a>
 <a href="#games"><img src="assets/nav-games.svg" width="120" alt="Ver ferramentas para games" /></a>
 <a href="#web"><img src="assets/nav-web.svg" width="120" alt="Ver aplicações web" /></a>
