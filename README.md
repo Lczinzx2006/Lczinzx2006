@@ -45,7 +45,7 @@ Meu projeto principal é o **Festum Estação**, uma aplicação que reúne ferr
 
 <table>
 <tr>
-<td width="50%"><img src="assets/frontier-identity.svg" width="100%" alt="Lucas — desenvolvimento de software, automação, games e aplicações web" /></td>
+<td width="50%"><img src="assets/frontier-identity.svg?v=2" width="100%" alt="Lucas — desenvolvimento de software, automação, games e aplicações web" /></td>
 <td width="50%"><a href="https://github.com/Lczinzx2006/estacao-releases"><img src="assets/frontier-focus.svg" width="100%" alt="Foco atual: Festum Estação, ferramentas de produção, gestão e criação" /></a></td>
 </tr>
 </table>
