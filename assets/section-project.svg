@@ -1,1 +1,5 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1100" height="62" viewBox="0 0 1100 62" role="img" aria-label="PROJETO EM DESTAQUE"><rect width="1100" height="62" rx="4" fill="#16110e"/><path d="M0 0h5v62H0z" fill="#c73327"/><text x="23" y="39" font-family="Georgia,serif" font-weight="bold" font-size="26" letter-spacing="1" fill="#f14a3d">PROJETO EM DESTAQUE</text><path d="M23 53h1053" stroke="#64251d"/></svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="1100" height="72" viewBox="0 0 1100 72" role="img" aria-label="PROJETO EM DESTAQUE">
+<rect width="1100" height="72" rx="4" fill="#16110e"/><path d="M0 0h5v72H0z" fill="#c73327"/>
+<text x="23" y="22" font-family="Arial,sans-serif" font-size="10" letter-spacing="3" fill="#ba775b">CAPÍTULO 02</text>
+<text x="23" y="53" font-family="Georgia,serif" font-weight="bold" font-size="25" letter-spacing="1" fill="#f14a3d">PROJETO EM DESTAQUE</text>
+<path d="M23 64h1053" stroke="#64251d"/><path d="M1060 21v27m-13-13h26" stroke="#a8402d"/></svg>

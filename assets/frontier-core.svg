@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="520" height="205" viewBox="0 0 520 205" role="img" aria-label="O QUE CONECTA">
+<rect x="1" y="1" width="518" height="203" rx="6" fill="#17110f" stroke="#6b3026"/>
+<path d="M15 32V15h17M488 15h17v17M15 173v17h17M488 190h17v-17" stroke="#b82b20" fill="none" stroke-width="2"/>
+<text x="27" y="36" font-family="Arial,sans-serif" font-size="11" letter-spacing="2.5" fill="#d56446">INVENTÁRIO / ESTRUTURA</text>
+<text x="27" y="80" font-family="Georgia,serif" font-size="29" font-weight="bold" fill="#f0dfc0">O QUE CONECTA</text>
+<path d="M27 94h466" stroke="#663328"/><text x="27" y="116" font-family="Arial,sans-serif" font-size="19" fill="#c8b398">Tauri · Rust · Supabase · PostgreSQL</text><text x="27" y="141" font-family="Arial,sans-serif" font-size="19" fill="#c8b398">Aplicação desktop e integrações.</text><text x="27" y="166" font-family="Arial,sans-serif" font-size="19" fill="#c8b398">Vitest e Git no desenvolvimento.</text></svg>

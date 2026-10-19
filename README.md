@@ -9,7 +9,10 @@
 
 <br />
 
-### Código, ferramentas e novas fronteiras.
+<picture>
+  <source media="(prefers-reduced-motion: reduce)" srcset="assets/frontier-greeting-still.png" />
+  <img src="assets/frontier-greeting.gif" width="100%" alt="Bem-vindo à fronteira — saudação animada em um diário de faroeste" />
+</picture>
 
 **Lucas · Desenvolvimento de software · Automação**
 
@@ -21,11 +24,23 @@
 
 </div>
 
+<picture>
+  <source media="(prefers-reduced-motion: reduce)" srcset="assets/frontier-trail-still.png" />
+  <img src="assets/frontier-trail.gif" width="100%" alt="Separador vermelho animado com um marcador percorrendo a trilha" />
+</picture>
+
 ## <img src="assets/section-trail.svg" width="100%" alt="No caminho" />
 
 Sou o Lucas. Desenvolvo ferramentas para simplificar o trabalho: automatizar processos, organizar informações e conectar aplicações entre computadores.
 
 Meu projeto principal é o **Festum Estação**, uma aplicação que reúne ferramentas de produção, gestão e criação. Vou evoluindo o projeto com testes, uso real e cuidado para preservar os fluxos que já funcionam.
+
+<table>
+<tr>
+<td width="50%"><img src="assets/frontier-identity.svg" width="100%" alt="Lucas — desenvolvimento de software, automação, games e aplicações web" /></td>
+<td width="50%"><a href="https://github.com/Lczinzx2006/estacao-releases"><img src="assets/frontier-focus.svg" width="100%" alt="Foco atual: Festum Estação, ferramentas de produção, gestão e criação" /></a></td>
+</tr>
+</table>
 
 <br />
 
@@ -50,6 +65,13 @@ Meu projeto principal é o **Festum Estação**, uma aplicação que reúne ferr
 
 ## <img src="assets/section-tools.svg" width="100%" alt="Na mochila" />
 
+<table>
+<tr>
+<td width="50%"><img src="assets/frontier-ui.svg" width="100%" alt="Interface: React, TypeScript e Tailwind CSS" /></td>
+<td width="50%"><img src="assets/frontier-core.svg" width="100%" alt="Estrutura: Tauri, Rust, Supabase, PostgreSQL, Vitest e Git" /></td>
+</tr>
+</table>
+
 <div align="center">
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-971F19?style=for-the-badge&logo=typescript&logoColor=E4CBA5)
@@ -70,16 +92,35 @@ Meu projeto principal é o **Festum Estação**, uma aplicação que reúne ferr
 ## <img src="assets/section-journal.svg" width="100%" alt="Diário de desenvolvimento" />
 
 <details>
-<summary><b>Abrir o diário</b></summary>
+<summary><b>✦ Abrir o diário de fronteira</b></summary>
 
 <br />
 
+**01 · Observar a operação**
+
 - Transformar necessidades do dia a dia em ferramentas práticas.
 - Criar interfaces claras e em português.
+
+**02 · Construir com cuidado**
+
 - Testar cada mudança e preservar o que já foi aprovado.
 - Aprender durante o desenvolvimento e melhorar um projeto de cada vez.
 
 </details>
+
+<br />
+
+## <img src="assets/section-contact.svg" width="100%" alt="Correspondência" />
+
+Uma sugestão ou um problema com o Festum? Abra uma issue no projeto com a versão utilizada e os passos para reproduzir.
+
+<a href="https://github.com/Lczinzx2006/estacao-releases/issues"><img src="assets/button-support.svg" width="188" alt="Abrir suporte do Festum" /></a>
+
+<br />
+<picture>
+  <source media="(prefers-reduced-motion: reduce)" srcset="assets/frontier-trail-still.png" />
+  <img src="assets/frontier-trail.gif" width="100%" alt="Separador vermelho animado com um marcador percorrendo a trilha" />
+</picture>
 
 <br />
 
