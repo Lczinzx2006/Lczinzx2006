@@ -14,7 +14,9 @@
   <img src="assets/frontier-greeting.gif" width="100%" alt="Bem-vindo à fronteira — saudação animada em um diário de faroeste" />
 </picture>
 
-**Lucas · Desenvolvimento de software · Automação**
+**Desenvolvedor de Software · Automação de Processos · Aplicações Multiplataforma**
+
+**Birigui – SP, Brasil** 📍
 
 <a href="https://github.com/Lczinzx2006/estacao-releases"><img src="assets/button-festum.svg" width="170" alt="Festum Estação" /></a>
 <a href="https://github.com/Lczinzx2006/estacao-releases/releases"><img src="assets/button-downloads.svg" width="170" alt="Downloads" /></a>
