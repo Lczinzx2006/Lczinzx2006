@@ -1,6 +1,9 @@
 <div align="center">
 
-<img src="assets/rdr2-lucas-banner.png" width="100%" alt="Lucas — paisagem de faroeste em vermelho e preto, com um cowboy e seu cavalo ao pôr do sol" />
+<picture>
+  <source media="(prefers-reduced-motion: reduce)" srcset="assets/rdr2-lucas-banner.png" />
+  <img src="assets/rdr2-lucas-banner-animated.gif" width="100%" alt="Lucas — faroeste em vermelho e preto com brasas animadas ao pôr do sol" />
+</picture>
 
 <br />
 
@@ -8,13 +11,15 @@
 
 **Lucas · Desenvolvimento de software · Automação**
 
-[Festum Estação](https://github.com/Lczinzx2006/estacao-releases) &nbsp; / &nbsp; [Downloads](https://github.com/Lczinzx2006/estacao-releases/releases) &nbsp; / &nbsp; [Suporte](https://github.com/Lczinzx2006/estacao-releases/issues)
+<a href="https://github.com/Lczinzx2006/estacao-releases"><img src="assets/button-festum.svg" width="170" alt="Festum Estação" /></a>
+<a href="https://github.com/Lczinzx2006/estacao-releases/releases"><img src="assets/button-downloads.svg" width="170" alt="Downloads" /></a>
+<a href="https://github.com/Lczinzx2006/estacao-releases/issues"><img src="assets/button-support.svg" width="170" alt="Suporte" /></a>
 
 <br />
 
 </div>
 
-## No caminho
+## <img src="assets/section-trail.svg" width="100%" alt="No caminho" />
 
 Sou o Lucas. Desenvolvo ferramentas para simplificar o trabalho: automatizar processos, organizar informações e conectar aplicações entre computadores.
 
@@ -22,7 +27,7 @@ Meu projeto principal é o **Festum Estação**, uma aplicação que reúne ferr
 
 <br />
 
-## Projeto em destaque
+## <img src="assets/section-project.svg" width="100%" alt="Projeto em destaque" />
 
 <a href="https://github.com/Lczinzx2006/estacao-releases">
   <img src="assets/festum-western-card.svg" width="100%" alt="Festum Estação — automação, gestão e criação. Windows, macOS e Android. Abrir downloads." />
@@ -35,20 +40,20 @@ Meu projeto principal é o **Festum Estação**, uma aplicação que reúne ferr
 | **Criação** | Ferramentas de imagens e bibliotecas de produção. |
 | **Equipe** | Comunicação interna e sincronização entre computadores. |
 
-[**Baixar o Festum Estação →**](https://github.com/Lczinzx2006/estacao-releases/releases)
+<a href="https://github.com/Lczinzx2006/estacao-releases/releases"><img src="assets/button-downloads.svg" width="188" alt="Baixar o Festum Estação" /></a>
 
 <sub>O código-fonte do Festum é privado. O repositório público disponibiliza os instaladores e as atualizações.</sub>
 
 <br />
 
-## Na mochila
+## <img src="assets/section-tools.svg" width="100%" alt="Na mochila" />
 
 <div align="center">
 
-![TypeScript](https://img.shields.io/badge/TypeScript-1B1410?style=for-the-badge&logo=typescript&logoColor=E4CBA5)
-![React](https://img.shields.io/badge/React-1B1410?style=for-the-badge&logo=react&logoColor=E4CBA5)
-![Rust](https://img.shields.io/badge/Rust-1B1410?style=for-the-badge&logo=rust&logoColor=E4CBA5)
-![Tauri](https://img.shields.io/badge/Tauri-1B1410?style=for-the-badge&logo=tauri&logoColor=E4CBA5)
+![TypeScript](https://img.shields.io/badge/TypeScript-971F19?style=for-the-badge&logo=typescript&logoColor=E4CBA5)
+![React](https://img.shields.io/badge/React-971F19?style=for-the-badge&logo=react&logoColor=E4CBA5)
+![Rust](https://img.shields.io/badge/Rust-971F19?style=for-the-badge&logo=rust&logoColor=E4CBA5)
+![Tauri](https://img.shields.io/badge/Tauri-971F19?style=for-the-badge&logo=tauri&logoColor=E4CBA5)
 
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-8B1E18?style=flat-square&logo=tailwindcss&logoColor=F5E6CB)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-8B1E18?style=flat-square&logo=postgresql&logoColor=F5E6CB)
@@ -60,7 +65,7 @@ Meu projeto principal é o **Festum Estação**, uma aplicação que reúne ferr
 
 <br />
 
-## Diário de desenvolvimento
+## <img src="assets/section-journal.svg" width="100%" alt="Diário de desenvolvimento" />
 
 <details>
 <summary><b>Abrir o diário</b></summary>
