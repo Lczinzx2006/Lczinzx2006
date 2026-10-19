@@ -1,9 +1,11 @@
 <div align="center">
 
+<a href="https://tenor.com/view/rdr2-arthur-morgan-horse-riding-horse-walking-horse-gif-19842663">
 <picture>
-  <source media="(prefers-reduced-motion: reduce)" srcset="assets/rdr2-lucas-banner.png" />
-  <img src="assets/rdr2-lucas-banner-animated.gif" width="100%" alt="Lucas — faroeste em vermelho e preto com brasas animadas ao pôr do sol" />
+  <source media="(prefers-reduced-motion: reduce)" srcset="assets/rdr2-gameplay-still.png" />
+  <img src="assets/rdr2-gameplay-banner.gif" width="100%" alt="Cena de Red Dead Redemption 2: Arthur Morgan cavalgando ao pôr do sol, com movimento real do jogo" />
 </picture>
+</a>
 
 <br />
 
