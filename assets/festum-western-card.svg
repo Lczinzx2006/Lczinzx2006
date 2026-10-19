@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1100" height="236" viewBox="0 0 1100 236" role="img" aria-labelledby="title desc">
+  <title id="title">Festum Estação</title>
+  <desc id="desc">Automação, gestão e criação. Windows, macOS e Android. Abrir downloads.</desc>
+  <rect width="1100" height="236" rx="10" fill="#16110e"/>
+  <rect x="1" y="1" width="1098" height="234" rx="9" fill="none" stroke="#4e3026"/>
+  <path d="M0 0h10v236H0z" fill="#b82b20"/>
+  <path d="M37 49h1026M37 187h1026" stroke="#71503b" stroke-width="1"/>
+  <text x="42" y="32" font-family="Arial,sans-serif" font-size="12" font-weight="700" letter-spacing="3" fill="#ce7b55">PROJETO PRINCIPAL</text>
+  <text x="40" y="108" font-family="Georgia,serif" font-size="47" font-weight="700" fill="#f0dfc0">FESTUM ESTAÇÃO</text>
+  <text x="43" y="148" font-family="Arial,sans-serif" font-size="19" fill="#c8b398">Automação, gestão e criação.</text>
+  <rect x="831" y="79" width="226" height="58" rx="4" fill="#af291e"/>
+  <text x="944" y="115" text-anchor="middle" font-family="Arial,sans-serif" font-size="16" font-weight="700" letter-spacing="1" fill="#fff1d7">ABRIR DOWNLOADS →</text>
+  <text x="43" y="216" font-family="Arial,sans-serif" font-size="13" letter-spacing="2" fill="#c8b398">WINDOWS · macOS · ANDROID</text>
+  <text x="1057" y="216" text-anchor="end" font-family="Arial,sans-serif" font-size="12" letter-spacing="1.5" fill="#ce7b55">FESTUM</text>
+</svg>

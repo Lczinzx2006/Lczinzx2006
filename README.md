@@ -1,165 +1,85 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Lczinzx/Lczinzx/586405ee1445b2ef8e5c970059bf36c701cc82cc/assets/banner-three-areas.svg" width="100%" alt="Lucas — Automações, ferramentas para games e aplicações web" />
+<img src="assets/rdr2-lucas-banner.png" width="100%" alt="Lucas — paisagem de faroeste em vermelho e preto, com um cowboy e seu cavalo ao pôr do sol" />
 
-# Olá, eu sou o Lucas 👋
-### Desenvolvedor de Software
+<br />
 
-**⚙️ Automação e produtividade · 🎮 Ferramentas para games · 🌐 Aplicações web**
+### Código, ferramentas e novas fronteiras.
 
-Três frentes de desenvolvimento, cada uma com seus projetos e repositórios.
+**Lucas · Desenvolvimento de software · Automação**
 
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Tauri](https://img.shields.io/badge/Tauri-242424?style=for-the-badge&logo=tauri&logoColor=FFC131)
-![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-181818?style=for-the-badge&logo=supabase&logoColor=3ECF8E)
+[Festum Estação](https://github.com/Lczinzx2006/estacao-releases) &nbsp; / &nbsp; [Downloads](https://github.com/Lczinzx2006/estacao-releases/releases) &nbsp; / &nbsp; [Suporte](https://github.com/Lczinzx2006/estacao-releases/issues)
+
+<br />
 
 </div>
 
----
+## No caminho
 
-## Sobre mim
+Sou o Lucas. Desenvolvo ferramentas para simplificar o trabalho: automatizar processos, organizar informações e conectar aplicações entre computadores.
 
-Desenvolvo **automações de processos e produtividade**, para simplificar operações; **ferramentas para games**, voltadas a jogadores; e **aplicações web**, com experiências acessíveis pelo navegador e projetos instaláveis como PWA.
+Meu projeto principal é o **Festum Estação**, uma aplicação que reúne ferramentas de produção, gestão e criação. Vou evoluindo o projeto com testes, uso real e cuidado para preservar os fluxos que já funcionam.
 
-[⚙️ Ver automações](#automacoes) · [🎮 Ver ferramentas para games](#games) · [🌐 Ver aplicações web](#web)
+<br />
 
-Meu foco está em aplicações práticas, com atenção à experiência de uso, sincronização entre computadores e preservação das funcionalidades existentes. Uso IA como apoio para desenvolver, testar e evoluir meus projetos, aprendendo com cada desafio.
+## Projeto em destaque
 
-<a id="automacoes"></a>
+<a href="https://github.com/Lczinzx2006/estacao-releases">
+  <img src="assets/festum-western-card.svg" width="100%" alt="Festum Estação — automação, gestão e criação. Windows, macOS e Android. Abrir downloads." />
+</a>
 
-## ⚙️ Automação e produtividade
-
-Soluções para automatizar tarefas, organizar informações e conectar operações.
-
-### Projeto em destaque — Festum Estação
-
-<div align="center">
-
-![Windows](https://img.shields.io/badge/Windows-0D1117?style=flat-square)
-![macOS](https://img.shields.io/badge/macOS-0D1117?style=flat-square&logo=apple&logoColor=white)
-![Android](https://img.shields.io/badge/Android-0D1117?style=flat-square&logo=android&logoColor=3DDC84)
-![Web](https://img.shields.io/badge/Web_%2F_iPhone-0D1117?style=flat-square&logo=safari&logoColor=white)
-
-**Uma operação conectada. Várias ferramentas. Um só lugar.**
-
-</div>
-
-Uma estação de ferramentas para operações reais, reunindo:
-
-- **Automação de produção:** importação de pedidos, identificação de SKUs e organização de arquivos.
-- **Gestão operacional:** estoque, reenvios, histórico e planilhas.
-- **Comunicação interna:** conversas individuais, grupos, anexos e notificações.
-- **Ferramentas de criação:** organização de imagens e bibliotecas de produção.
-- **Uso multiplataforma:** Windows, macOS, Android e web para iPhone.
-- **Sincronização multi-PC:** informações compartilhadas entre as estações da equipe.
-
-[![Releases](https://img.shields.io/badge/Ver_releases_do_Festum-8B5CF6?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Lczinzx/estacao-releases)
-
-> O código do aplicativo é privado. O repositório público de releases disponibiliza suas versões distribuídas.
-
-### Repositórios de automação
-
-| Repositório | Finalidade |
+| Na operação | No aplicativo |
 | :--- | :--- |
-| [estacao-releases](https://github.com/Lczinzx/estacao-releases) | Instaladores e atualizações do Festum Estação. |
+| **Produção** | Importação de pedidos, identificação de SKUs e organização de arquivos. |
+| **Gestão** | Estoque, reenvios, histórico e planilhas. |
+| **Criação** | Ferramentas de imagens e bibliotecas de produção. |
+| **Equipe** | Comunicação interna e sincronização entre computadores. |
 
-O código-fonte do Festum permanece privado; somente a distribuição é pública.
+[**Baixar o Festum Estação →**](https://github.com/Lczinzx2006/estacao-releases/releases)
 
----
+<sub>O código-fonte do Festum é privado. O repositório público disponibiliza os instaladores e as atualizações.</sub>
 
-<a id="games"></a>
+<br />
 
-## 🎮 Ferramentas para games
-
-Uma frente separada das automações empresariais: utilitários e ferramentas voltados a jogos e à experiência dos jogadores.
-
-### Repositórios de games
-
-| Projeto | Finalidade | Download |
-| :--- | :--- | :--- |
-| [lxmenu](https://github.com/Lczinzx/lxmenu) | Menu experimental para GTA V Online Enhanced, com interface em português, tema vermelho/preto, editor de trajes e atributos do personagem. | [Baixar a DLL](https://github.com/Lczinzx/lxmenu/releases) |
-
-A conexão em sessões convencionais e os recursos experimentais do lxmenu têm limitações documentadas no repositório; os testes offline não equivalem a validação dentro do GTA.
-
----
-
-<a id="web"></a>
-
-## 🌐 Aplicações web
-
-Sites e aplicações com interfaces responsivas, navegação prática e recursos para uso no navegador.
-
-### Projeto em desenvolvimento — LX Play
-
-Uma aplicação de cinema em português, com catálogo de filmes e séries, busca, favoritos e histórico locais. A interface é instalável como PWA em navegadores compatíveis.
-
-O projeto integra fontes externas: disponibilidade de títulos, reprodução e idiomas dependem dessas fontes. Os vídeos não ficam hospedados no repositório.
-
-### Repositórios de aplicações web
-
-| Projeto | Finalidade | Código |
-| :--- | :--- | :--- |
-| LX Play | Interface de cinema com catálogo, busca, favoritos e recursos de PWA. Em desenvolvimento. | [lx-play](https://github.com/Lczinzx/lx-play) |
-
----
-
-<a id="suporte"></a>
-
-## 💬 Suporte dos projetos
-
-Encontrou um problema ou tem uma sugestão? Abra uma issue no projeto correspondente.
-
-| Área | Projeto | Suporte |
-| :--- | :--- | :--- |
-| Automação | Festum Estação | [Abrir chamado](https://github.com/Lczinzx/estacao-releases/issues/new) |
-| Games | lxmenu | [Abrir chamado](https://github.com/Lczinzx/lxmenu/issues/new) |
-| Web | LX Play | [Abrir chamado](https://github.com/Lczinzx/lx-play/issues/new) |
-
-Informe versão, dispositivo e passos para reproduzir. Remova senhas, tokens e dados pessoais dos anexos públicos.
-
-<a id="apoio"></a>
-
-## ☕ Apoie o desenvolvimento
-
-Você pode apoiar os projetos com testes, sugestões e relatos de problemas. O apoio financeiro será opcional.
-
-**Doações ainda não estão ativadas.** O link oficial de recebimento será publicado aqui quando estiver configurado. O suporte não depende de doação.
-
----
-
-## 🧰 Tecnologias nos meus projetos
+## Na mochila
 
 <div align="center">
 
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-0D1117?style=for-the-badge&logo=tailwindcss&logoColor=38BDF8)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0D1117?style=for-the-badge&logo=postgresql&logoColor=4169E1)
-![Vitest](https://img.shields.io/badge/Vitest-0D1117?style=for-the-badge&logo=vitest&logoColor=6E9F18)
-![Git](https://img.shields.io/badge/Git-0D1117?style=for-the-badge&logo=git&logoColor=F05032)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-0D1117?style=for-the-badge&logo=githubactions&logoColor=2088FF)
+![TypeScript](https://img.shields.io/badge/TypeScript-1B1410?style=for-the-badge&logo=typescript&logoColor=E4CBA5)
+![React](https://img.shields.io/badge/React-1B1410?style=for-the-badge&logo=react&logoColor=E4CBA5)
+![Rust](https://img.shields.io/badge/Rust-1B1410?style=for-the-badge&logo=rust&logoColor=E4CBA5)
+![Tauri](https://img.shields.io/badge/Tauri-1B1410?style=for-the-badge&logo=tauri&logoColor=E4CBA5)
+
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-8B1E18?style=flat-square&logo=tailwindcss&logoColor=F5E6CB)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-8B1E18?style=flat-square&logo=postgresql&logoColor=F5E6CB)
+![Supabase](https://img.shields.io/badge/Supabase-8B1E18?style=flat-square&logo=supabase&logoColor=F5E6CB)
+![Vitest](https://img.shields.io/badge/Vitest-8B1E18?style=flat-square&logo=vitest&logoColor=F5E6CB)
+![Git](https://img.shields.io/badge/Git-8B1E18?style=flat-square&logo=git&logoColor=F5E6CB)
 
 </div>
 
-| Área | Tecnologias |
-| :--- | :--- |
-| Interface | React · TypeScript · Tailwind CSS |
-| Aplicações desktop | Tauri · Rust |
-| Aplicações web | JavaScript · HTML · CSS · PWA |
-| Dados e integrações | Supabase · PostgreSQL |
-| Testes | Vitest · Testing Library |
-| Versionamento e distribuição | Git · GitHub · GitHub Actions |
+<br />
 
-## 🎯 O que busco construir
+## Diário de desenvolvimento
 
-**Automação para o trabalho. Ferramentas para os games. Experiências para a web.**
+<details>
+<summary><b>Abrir o diário</b></summary>
 
-Gosto de transformar uma necessidade concreta em um fluxo mais simples — do primeiro protótipo até o uso diário — e evoluir o sistema com testes e mudanças cuidadosas.
+<br />
+
+- Transformar necessidades do dia a dia em ferramentas práticas.
+- Criar interfaces claras e em português.
+- Testar cada mudança e preservar o que já foi aprovado.
+- Aprender durante o desenvolvimento e melhorar um projeto de cada vez.
+
+</details>
+
+<br />
 
 ---
 
 <div align="center">
 
-**Construindo, aprendendo e melhorando um projeto de cada vez.**
+<sub>LCZINZX2006 &nbsp; · &nbsp; UM PROJETO DE CADA VEZ.</sub>
 
 </div>
