@@ -37,11 +37,7 @@
 
 ## <img src="assets/section-trail.svg" width="100%" alt="No caminho" />
 
-Sou o Lucas. Desenvolvo ferramentas para simplificar o trabalho: automatizar processos, organizar informações e conectar aplicações entre computadores.
-
-Meu foco está em aplicações práticas, experiência de uso e sincronização entre computadores. Uso IA como apoio para desenvolver, testar e evoluir os projetos, aprendendo com cada desafio.
-
-Meu projeto principal é o **Festum Estação**, uma aplicação que reúne ferramentas de produção, gestão e criação. Vou evoluindo o projeto com testes, uso real e cuidado para preservar os fluxos que já funcionam.
+Uso IA como apoio para desenvolver, testar e evoluir os projetos, aprendendo com cada desafio.
 
 <table>
 <tr>
@@ -88,30 +84,6 @@ Meu projeto principal é o **Festum Estação**, uma aplicação que reúne ferr
 
 ## <img src="assets/section-tools.svg" width="100%" alt="Na mochila" />
 
-<table>
-<tr>
-<td width="50%"><img src="assets/frontier-ui.svg" width="100%" alt="Interface: React, TypeScript e Tailwind CSS" /></td>
-<td width="50%"><img src="assets/frontier-core.svg" width="100%" alt="Estrutura: Tauri, Rust, Supabase, PostgreSQL, Vitest e Git" /></td>
-</tr>
-</table>
-
-<div align="center">
-
-![TypeScript](https://img.shields.io/badge/TypeScript-971F19?style=for-the-badge&logo=typescript&logoColor=E4CBA5)
-![React](https://img.shields.io/badge/React-971F19?style=for-the-badge&logo=react&logoColor=E4CBA5)
-![Rust](https://img.shields.io/badge/Rust-971F19?style=for-the-badge&logo=rust&logoColor=E4CBA5)
-![Tauri](https://img.shields.io/badge/Tauri-971F19?style=for-the-badge&logo=tauri&logoColor=E4CBA5)
-
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-8B1E18?style=flat-square&logo=tailwindcss&logoColor=F5E6CB)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-8B1E18?style=flat-square&logo=postgresql&logoColor=F5E6CB)
-![Supabase](https://img.shields.io/badge/Supabase-8B1E18?style=flat-square&logo=supabase&logoColor=F5E6CB)
-![Vitest](https://img.shields.io/badge/Vitest-8B1E18?style=flat-square&logo=vitest&logoColor=F5E6CB)
-![Git](https://img.shields.io/badge/Git-8B1E18?style=flat-square&logo=git&logoColor=F5E6CB)
-
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-8B1E18?style=flat-square&logo=githubactions&logoColor=F5E6CB)
-
-</div>
-
 | Área | Tecnologias utilizadas nos projetos |
 | :--- | :--- |
 | Interface | React · TypeScript · Tailwind CSS |
@@ -139,12 +111,6 @@ Meu projeto principal é o **Festum Estação**, uma aplicação que reúne ferr
 
 - Testar cada mudança e preservar o que já foi aprovado.
 - Aprender durante o desenvolvimento e melhorar um projeto de cada vez.
-
-**03 · Próximas fronteiras**
-
-Automação para o trabalho. Ferramentas para os games. Experiências para a web.
-
-Gosto de transformar uma necessidade concreta em um fluxo mais simples — do primeiro protótipo até o uso diário.
 
 </details>
 
