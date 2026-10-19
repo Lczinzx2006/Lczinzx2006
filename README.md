@@ -2,8 +2,8 @@
 
 <a href="https://tenor.com/view/rdr2-arthur-morgan-horse-riding-horse-walking-horse-gif-19842663">
 <picture>
-  <source media="(prefers-reduced-motion: reduce)" srcset="assets/rdr2-gameplay-still.png" />
-  <img src="assets/rdr2-gameplay-banner.gif" width="100%" alt="Cena de Red Dead Redemption 2: Arthur Morgan cavalgando ao pôr do sol, com movimento real do jogo" />
+  <source media="(prefers-reduced-motion: reduce)" srcset="assets/rdr2-panorama-red-still.png" />
+  <img src="assets/rdr2-panorama-red.gif" width="100%" alt="Cena panorâmica de Red Dead Redemption 2 em tons vermelhos: Arthur Morgan cavalgando ao pôr do sol, com movimento real do jogo" />
 </picture>
 </a>
 
