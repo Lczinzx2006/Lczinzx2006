@@ -18,6 +18,12 @@
 
 **Birigui – SP, Brasil** 📍
 
+<a href="#automacoes"><img src="assets/nav-automation.svg" width="120" alt="Ver automações" /></a>
+<a href="#games"><img src="assets/nav-games.svg" width="120" alt="Ver ferramentas para games" /></a>
+<a href="#web"><img src="assets/nav-web.svg" width="120" alt="Ver aplicações web" /></a>
+
+<br />
+
 <a href="https://github.com/Lczinzx2006/estacao-releases"><img src="assets/button-festum.svg" width="170" alt="Festum Estação" /></a>
 <a href="https://github.com/Lczinzx2006/estacao-releases/releases"><img src="assets/button-downloads.svg" width="170" alt="Downloads" /></a>
 <a href="https://github.com/Lczinzx2006/estacao-releases/issues"><img src="assets/button-support.svg" width="170" alt="Suporte" /></a>
@@ -35,6 +41,8 @@
 
 Sou o Lucas. Desenvolvo ferramentas para simplificar o trabalho: automatizar processos, organizar informações e conectar aplicações entre computadores.
 
+Meu foco está em aplicações práticas, experiência de uso e sincronização entre computadores. Uso IA como apoio para desenvolver, testar e evoluir os projetos, aprendendo com cada desafio.
+
 Meu projeto principal é o **Festum Estação**, uma aplicação que reúne ferramentas de produção, gestão e criação. Vou evoluindo o projeto com testes, uso real e cuidado para preservar os fluxos que já funcionam.
 
 <table>
@@ -43,6 +51,20 @@ Meu projeto principal é o **Festum Estação**, uma aplicação que reúne ferr
 <td width="50%"><a href="https://github.com/Lczinzx2006/estacao-releases"><img src="assets/frontier-focus.svg" width="100%" alt="Foco atual: Festum Estação, ferramentas de produção, gestão e criação" /></a></td>
 </tr>
 </table>
+
+### Três frentes de desenvolvimento
+
+<a id="automacoes"></a>
+
+**Automação e produtividade** — simplificar processos, organizar operações e conectar ferramentas. O Festum Estação é o projeto principal desta frente.
+
+<a id="games"></a>
+
+**Ferramentas para games** — interfaces em português e utilitários voltados à experiência dos jogadores. O **lxmenu está pausado**, em revisão e sem novas publicações.
+
+<a id="web"></a>
+
+**Aplicações web** — sites, interfaces responsivas e aplicações instaláveis como PWA. O **LX Play está pausado**, em revisão e sem novas publicações.
 
 <br />
 
@@ -57,7 +79,8 @@ Meu projeto principal é o **Festum Estação**, uma aplicação que reúne ferr
 | **Produção** | Importação de pedidos, identificação de SKUs e organização de arquivos. |
 | **Gestão** | Estoque, reenvios, histórico e planilhas. |
 | **Criação** | Ferramentas de imagens e bibliotecas de produção. |
-| **Equipe** | Comunicação interna e sincronização entre computadores. |
+| **Equipe** | Conversas individuais, grupos, anexos, notificações e sincronização entre computadores. |
+| **Multiplataforma** | Windows, macOS, Android e interface web para iPhone. |
 
 <a href="https://github.com/Lczinzx2006/estacao-releases/releases"><img src="assets/button-downloads.svg" width="188" alt="Baixar o Festum Estação" /></a>
 
@@ -87,7 +110,18 @@ Meu projeto principal é o **Festum Estação**, uma aplicação que reúne ferr
 ![Vitest](https://img.shields.io/badge/Vitest-8B1E18?style=flat-square&logo=vitest&logoColor=F5E6CB)
 ![Git](https://img.shields.io/badge/Git-8B1E18?style=flat-square&logo=git&logoColor=F5E6CB)
 
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-8B1E18?style=flat-square&logo=githubactions&logoColor=F5E6CB)
+
 </div>
+
+| Área | Tecnologias utilizadas nos projetos |
+| :--- | :--- |
+| Interface | React · TypeScript · Tailwind CSS |
+| Aplicações desktop | Tauri · Rust |
+| Aplicações web | JavaScript · HTML · CSS · PWA |
+| Dados e integrações | Supabase · PostgreSQL |
+| Testes | Vitest · Testing Library |
+| Versionamento e distribuição | Git · GitHub · GitHub Actions |
 
 <br />
 
@@ -108,15 +142,36 @@ Meu projeto principal é o **Festum Estação**, uma aplicação que reúne ferr
 - Testar cada mudança e preservar o que já foi aprovado.
 - Aprender durante o desenvolvimento e melhorar um projeto de cada vez.
 
+**03 · Próximas fronteiras**
+
+Automação para o trabalho. Ferramentas para os games. Experiências para a web.
+
+Gosto de transformar uma necessidade concreta em um fluxo mais simples — do primeiro protótipo até o uso diário.
+
 </details>
 
 <br />
 
 ## <img src="assets/section-contact.svg" width="100%" alt="Correspondência" />
 
-Uma sugestão ou um problema com o Festum? Abra uma issue no projeto com a versão utilizada e os passos para reproduzir.
+<a id="suporte"></a>
+
+Uma sugestão ou um problema com o Festum? Abra uma issue no projeto com a versão, o dispositivo e os passos para reproduzir. Remova senhas, tokens e dados pessoais dos anexos públicos.
 
 <a href="https://github.com/Lczinzx2006/estacao-releases/issues"><img src="assets/button-support.svg" width="188" alt="Abrir suporte do Festum" /></a>
+
+<a id="apoio"></a>
+
+<details>
+<summary><b>✦ Apoie o desenvolvimento</b></summary>
+
+<br />
+
+Você pode apoiar os projetos com testes, sugestões e relatos de problemas.
+
+**Doações não estão ativadas.** O suporte não depende de contribuição financeira.
+
+</details>
 
 <br />
 <picture>
