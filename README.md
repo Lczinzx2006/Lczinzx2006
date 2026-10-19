@@ -84,14 +84,7 @@ Uso IA como apoio para desenvolver, testar e evoluir os projetos, aprendendo com
 
 ## <img src="assets/section-tools.svg" width="100%" alt="Na mochila" />
 
-| Área | Tecnologias utilizadas nos projetos |
-| :--- | :--- |
-| Interface | React · TypeScript · Tailwind CSS |
-| Aplicações desktop | Tauri · Rust |
-| Aplicações web | JavaScript · HTML · CSS · PWA |
-| Dados e integrações | Supabase · PostgreSQL |
-| Testes | Vitest · Testing Library |
-| Versionamento e distribuição | Git · GitHub · GitHub Actions |
+<img src="assets/frontier-technologies.svg" width="100%" alt="Interface: React, TypeScript e Tailwind CSS. Desktop: Tauri e Rust. Web: JavaScript, HTML, CSS e PWA. Dados: Supabase e PostgreSQL. Testes: Vitest e Testing Library. Versionamento e distribuição: Git, GitHub e GitHub Actions." />
 
 <br />
 

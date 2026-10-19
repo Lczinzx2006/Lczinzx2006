@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="610" viewBox="0 0 900 610" role="img" aria-labelledby="title desc">
+<title id="title">Inventário de tecnologias</title><desc id="desc">Tecnologias organizadas por área, em um painel vermelho de faroeste.</desc>
+<rect x="1" y="1" width="898" height="608" rx="8" fill="#120e0d" stroke="#7e3028" stroke-width="2"/>
+<path d="M16 35V16h24M860 16h24v19M16 575v19h24M860 594h24v-19" fill="none" stroke="#b52c22" stroke-width="2"/>
+<g transform="translate(24 22)"><rect width="852" height="86" rx="4" fill="#241310"/><path d="M0 0h4v86H0z" fill="#b92c21"/>
+<text x="20" y="48" font-family="Georgia,serif" font-size="27" font-weight="bold" fill="#a43a2e">01</text>
+<text x="78" y="27" font-family="Arial,sans-serif" font-size="15" font-weight="bold" letter-spacing="1.8" fill="#ee6551">INTERFACE</text>
+<text x="78" y="61" font-family="Arial,sans-serif" font-size="26" fill="#f1dfbf">React · TypeScript · Tailwind CSS</text><path d="M812 19v16m-8-8h16" stroke="#793025"/></g>
+<g transform="translate(24 116)"><rect width="852" height="86" rx="4" fill="#1b100e"/><path d="M0 0h4v86H0z" fill="#b92c21"/>
+<text x="20" y="48" font-family="Georgia,serif" font-size="27" font-weight="bold" fill="#a43a2e">02</text>
+<text x="78" y="27" font-family="Arial,sans-serif" font-size="15" font-weight="bold" letter-spacing="1.8" fill="#ee6551">APLICAÇÕES DESKTOP</text>
+<text x="78" y="61" font-family="Arial,sans-serif" font-size="26" fill="#f1dfbf">Tauri · Rust</text><path d="M812 19v16m-8-8h16" stroke="#793025"/></g>
+<g transform="translate(24 210)"><rect width="852" height="86" rx="4" fill="#241310"/><path d="M0 0h4v86H0z" fill="#b92c21"/>
+<text x="20" y="48" font-family="Georgia,serif" font-size="27" font-weight="bold" fill="#a43a2e">03</text>
+<text x="78" y="27" font-family="Arial,sans-serif" font-size="15" font-weight="bold" letter-spacing="1.8" fill="#ee6551">APLICAÇÕES WEB</text>
+<text x="78" y="61" font-family="Arial,sans-serif" font-size="26" fill="#f1dfbf">JavaScript · HTML · CSS · PWA</text><path d="M812 19v16m-8-8h16" stroke="#793025"/></g>
+<g transform="translate(24 304)"><rect width="852" height="86" rx="4" fill="#1b100e"/><path d="M0 0h4v86H0z" fill="#b92c21"/>
+<text x="20" y="48" font-family="Georgia,serif" font-size="27" font-weight="bold" fill="#a43a2e">04</text>
+<text x="78" y="27" font-family="Arial,sans-serif" font-size="15" font-weight="bold" letter-spacing="1.8" fill="#ee6551">DADOS E INTEGRAÇÕES</text>
+<text x="78" y="61" font-family="Arial,sans-serif" font-size="26" fill="#f1dfbf">Supabase · PostgreSQL</text><path d="M812 19v16m-8-8h16" stroke="#793025"/></g>
+<g transform="translate(24 398)"><rect width="852" height="86" rx="4" fill="#241310"/><path d="M0 0h4v86H0z" fill="#b92c21"/>
+<text x="20" y="48" font-family="Georgia,serif" font-size="27" font-weight="bold" fill="#a43a2e">05</text>
+<text x="78" y="27" font-family="Arial,sans-serif" font-size="15" font-weight="bold" letter-spacing="1.8" fill="#ee6551">TESTES</text>
+<text x="78" y="61" font-family="Arial,sans-serif" font-size="26" fill="#f1dfbf">Vitest · Testing Library</text><path d="M812 19v16m-8-8h16" stroke="#793025"/></g>
+<g transform="translate(24 492)"><rect width="852" height="86" rx="4" fill="#1b100e"/><path d="M0 0h4v86H0z" fill="#b92c21"/>
+<text x="20" y="48" font-family="Georgia,serif" font-size="27" font-weight="bold" fill="#a43a2e">06</text>
+<text x="78" y="27" font-family="Arial,sans-serif" font-size="15" font-weight="bold" letter-spacing="1.8" fill="#ee6551">VERSIONAMENTO E DISTRIBUIÇÃO</text>
+<text x="78" y="61" font-family="Arial,sans-serif" font-size="26" fill="#f1dfbf">Git · GitHub · GitHub Actions</text><path d="M812 19v16m-8-8h16" stroke="#793025"/></g>
+</svg>
