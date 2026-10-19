@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="304" viewBox="0 0 900 304" role="img" aria-labelledby="title">
+<title id="title">Suporte do Festum Estação</title>
+<rect x="1" y="1" width="898" height="302" rx="8" fill="#120e0d" stroke="#7e3028" stroke-width="2"/><path d="M16 35V16h24M860 16h24v19M16 269 v19h24M860 288 h24v-19" fill="none" stroke="#b52c22" stroke-width="2"/>
+<g transform="translate(24 22)"><rect width="852" height="122" rx="4" fill="#241310"/><path d="M0 0h4v122H0z" fill="#b92c21"/><text x="20" y="65" font-family="Georgia,serif" font-size="27" font-weight="bold" fill="#a43a2e">01</text><text x="78" y="29" font-family="Arial,sans-serif" font-size="15" font-weight="bold" letter-spacing="1.8" fill="#ee6551">RELATAR UM PROBLEMA OU SUGESTÃO</text>
+<text x="78" y="64" font-family="Arial,sans-serif" font-size="23" fill="#f1dfbf">Abra uma issue do Festum com a versão, o dispositivo</text>
+<text x="78" y="94" font-family="Arial,sans-serif" font-size="23" fill="#f1dfbf">e os passos para reproduzir o problema.</text>
+<path d="M812 19v16m-8-8h16" stroke="#793025"/></g>
+<g transform="translate(24 152)"><rect width="852" height="122" rx="4" fill="#1b100e"/><path d="M0 0h4v122H0z" fill="#b92c21"/><text x="20" y="65" font-family="Georgia,serif" font-size="27" font-weight="bold" fill="#a43a2e">02</text><text x="78" y="29" font-family="Arial,sans-serif" font-size="15" font-weight="bold" letter-spacing="1.8" fill="#ee6551">ANTES DE ENVIAR ANEXOS</text>
+<text x="78" y="64" font-family="Arial,sans-serif" font-size="23" fill="#f1dfbf">Remova senhas, tokens e dados pessoais</text>
+<text x="78" y="94" font-family="Arial,sans-serif" font-size="23" fill="#f1dfbf">dos arquivos que serão publicados.</text>
+<path d="M812 19v16m-8-8h16" stroke="#793025"/></g>
+</svg>

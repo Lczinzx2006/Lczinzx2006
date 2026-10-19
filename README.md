@@ -89,15 +89,7 @@ Uso IA como apoio para desenvolver, testar e evoluir os projetos, aprendendo com
 
 <br />
 
-**01 · Observar a operação**
-
-- Transformar necessidades do dia a dia em ferramentas práticas.
-- Criar interfaces claras e em português.
-
-**02 · Construir com cuidado**
-
-- Testar cada mudança e preservar o que já foi aprovado.
-- Aprender durante o desenvolvimento e melhorar um projeto de cada vez.
+<img src="assets/frontier-journal.svg" width="100%" alt="Observar a operação: transformar necessidades do dia a dia em ferramentas práticas e criar interfaces claras em português. Construir com cuidado: testar cada mudança, preservar o aprovado e aprender melhorando um projeto de cada vez." />
 
 </details>
 
@@ -107,7 +99,7 @@ Uso IA como apoio para desenvolver, testar e evoluir os projetos, aprendendo com
 
 <a id="suporte"></a>
 
-Uma sugestão ou um problema com o Festum? Abra uma issue no projeto com a versão, o dispositivo e os passos para reproduzir. Remova senhas, tokens e dados pessoais dos anexos públicos.
+<img src="assets/frontier-support.svg" width="100%" alt="Suporte do Festum: abra uma issue com a versão, o dispositivo e os passos para reproduzir o problema. Antes de enviar anexos públicos, remova senhas, tokens e dados pessoais." />
 
 <a href="https://github.com/Lczinzx2006/estacao-releases/issues"><img src="assets/button-support.svg" width="188" alt="Abrir suporte do Festum" /></a>
 
@@ -118,9 +110,7 @@ Uma sugestão ou um problema com o Festum? Abra uma issue no projeto com a vers�
 
 <br />
 
-Você pode apoiar os projetos com testes, sugestões e relatos de problemas.
-
-**Doações não estão ativadas.** O suporte não depende de contribuição financeira.
+<img src="assets/frontier-contribute.svg" width="100%" alt="Colabore com testes e sugestões. Doações não estão ativadas. O suporte não depende de contribuição financeira." />
 
 </details>
 
