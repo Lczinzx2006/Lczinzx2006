@@ -68,13 +68,7 @@ Uso IA como apoio para desenvolver, testar e evoluir os projetos, aprendendo com
   <img src="assets/festum-western-card.svg" width="100%" alt="Festum Estação — automação, gestão e criação. Windows, macOS e Android. Abrir downloads." />
 </a>
 
-| Na operação | No aplicativo |
-| :--- | :--- |
-| **Produção** | Importação de pedidos, identificação de SKUs e organização de arquivos. |
-| **Gestão** | Estoque, reenvios, histórico e planilhas. |
-| **Criação** | Ferramentas de imagens e bibliotecas de produção. |
-| **Equipe** | Conversas individuais, grupos, anexos, notificações e sincronização entre computadores. |
-| **Multiplataforma** | Windows, macOS, Android e interface web para iPhone. |
+<img src="assets/festum-functions.svg" width="100%" alt="Produção: importação de pedidos, identificação de SKUs e organização de arquivos. Gestão: estoque, reenvios, histórico e planilhas. Criação: ferramentas de imagens e bibliotecas de produção. Equipe: conversas individuais, grupos, anexos, notificações e sincronização entre computadores. Multiplataforma: Windows, macOS, Android e interface web para iPhone." />
 
 <a href="https://github.com/Lczinzx2006/estacao-releases/releases"><img src="assets/button-downloads.svg" width="188" alt="Baixar o Festum Estação" /></a>
 

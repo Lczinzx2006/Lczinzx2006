@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="610" viewBox="0 0 900 610" role="img" aria-labelledby="title desc">
+<title id="title">Funções do Festum Estação</title><desc id="desc">Produção, gestão, criação, equipe e plataformas em um painel vermelho de faroeste.</desc>
+<rect x="1" y="1" width="898" height="608" rx="8" fill="#120e0d" stroke="#7e3028" stroke-width="2"/>
+<path d="M16 35V16h24M860 16h24v19M16 575v19h24M860 594h24v-19" fill="none" stroke="#b52c22" stroke-width="2"/>
+<g transform="translate(24 22)"><rect width="852" height="106" rx="4" fill="#241310"/><path d="M0 0h4v106H0z" fill="#b92c21"/>
+<text x="20" y="59" font-family="Georgia,serif" font-size="27" font-weight="bold" fill="#a43a2e">01</text><text x="78" y="27" font-family="Arial,sans-serif" font-size="15" font-weight="bold" letter-spacing="1.8" fill="#ee6551">PRODUÇÃO</text>
+<text x="78" y="60" font-family="Arial,sans-serif" font-size="24" fill="#f1dfbf">Importação de pedidos, identificação de SKUs</text>
+<text x="78" y="89" font-family="Arial,sans-serif" font-size="24" fill="#f1dfbf">e organização de arquivos.</text>
+<path d="M812 19v16m-8-8h16" stroke="#793025"/></g>
+<g transform="translate(24 136)"><rect width="852" height="106" rx="4" fill="#1b100e"/><path d="M0 0h4v106H0z" fill="#b92c21"/>
+<text x="20" y="59" font-family="Georgia,serif" font-size="27" font-weight="bold" fill="#a43a2e">02</text><text x="78" y="27" font-family="Arial,sans-serif" font-size="15" font-weight="bold" letter-spacing="1.8" fill="#ee6551">GESTÃO</text>
+<text x="78" y="60" font-family="Arial,sans-serif" font-size="24" fill="#f1dfbf">Estoque, reenvios, histórico e planilhas.</text>
+<path d="M812 19v16m-8-8h16" stroke="#793025"/></g>
+<g transform="translate(24 250)"><rect width="852" height="106" rx="4" fill="#241310"/><path d="M0 0h4v106H0z" fill="#b92c21"/>
+<text x="20" y="59" font-family="Georgia,serif" font-size="27" font-weight="bold" fill="#a43a2e">03</text><text x="78" y="27" font-family="Arial,sans-serif" font-size="15" font-weight="bold" letter-spacing="1.8" fill="#ee6551">CRIAÇÃO</text>
+<text x="78" y="60" font-family="Arial,sans-serif" font-size="24" fill="#f1dfbf">Ferramentas de imagens e bibliotecas de produção.</text>
+<path d="M812 19v16m-8-8h16" stroke="#793025"/></g>
+<g transform="translate(24 364)"><rect width="852" height="106" rx="4" fill="#1b100e"/><path d="M0 0h4v106H0z" fill="#b92c21"/>
+<text x="20" y="59" font-family="Georgia,serif" font-size="27" font-weight="bold" fill="#a43a2e">04</text><text x="78" y="27" font-family="Arial,sans-serif" font-size="15" font-weight="bold" letter-spacing="1.8" fill="#ee6551">EQUIPE</text>
+<text x="78" y="60" font-family="Arial,sans-serif" font-size="24" fill="#f1dfbf">Conversas individuais, grupos, anexos e notificações;</text>
+<text x="78" y="89" font-family="Arial,sans-serif" font-size="24" fill="#f1dfbf">sincronização entre computadores.</text>
+<path d="M812 19v16m-8-8h16" stroke="#793025"/></g>
+<g transform="translate(24 478)"><rect width="852" height="106" rx="4" fill="#241310"/><path d="M0 0h4v106H0z" fill="#b92c21"/>
+<text x="20" y="59" font-family="Georgia,serif" font-size="27" font-weight="bold" fill="#a43a2e">05</text><text x="78" y="27" font-family="Arial,sans-serif" font-size="15" font-weight="bold" letter-spacing="1.8" fill="#ee6551">MULTIPLATAFORMA</text>
+<text x="78" y="60" font-family="Arial,sans-serif" font-size="24" fill="#f1dfbf">Windows, macOS, Android</text>
+<text x="78" y="89" font-family="Arial,sans-serif" font-size="24" fill="#f1dfbf">e interface web para iPhone.</text>
+<path d="M812 19v16m-8-8h16" stroke="#793025"/></g>
+</svg>
